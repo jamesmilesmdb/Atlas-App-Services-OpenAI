@@ -1,0 +1,14 @@
+[
+    {
+        "name": "OpenAI_Completion_Curie",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "Search_OpenAI_Function",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    }
+]
